@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on project 'Archee'. This is a site where I work on interactive. 
 - 🌱 I’m currently learning scss and grids. 
 - 👯 I’m looking to collaborate on  with the company where I will grow as a web-developer.  
-- 📫 How to reach me: by e-mail or social networks: den_maverick177@mail.ru | Denis-mamlev@rambler.ru | [telegram](https://t.me/Denny_maverick) | [vkontakte](https://vk.com/maverick177). 
+- 📫 How to reach me: den_maverick177@mail.ru, Denis-mamlev@rambler.ru, [telegram](https://t.me/Denny_maverick), [vkontakte](https://vk.com/maverick177). 
 - ⚡ Fun fact: once working on project I have deleted the repository by accident. I had been working on it seven day =)) 
 
 <h2 class="profile__skills-title">
