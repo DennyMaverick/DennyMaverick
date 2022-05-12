@@ -17,8 +17,9 @@
 - ⚡ Fun fact: once working on project I have deleted the repository by accident. I had been working on it seven day =)) 
 
 <h2 class="profile__skills-title">
-  My skills in web-developing:
+  MY SKILLS IN WEB-DEVELOPING: 
 </h2>
+  
 <ul class="profile__list-skills">
   <li class="profile__list-item">
       HTML5 / CSS3</li>
