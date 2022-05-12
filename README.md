@@ -12,11 +12,11 @@
     I am a web-developer. I like to do web-sites more attractive. And web for me is not an usual word. This is a part of my every day.
   </p>
   
-- 🔭 I’m currently working on project 'Archee'. This is a site where I work on interactive. 
-- 🌱 I’m currently learning scss and grids. 
-- 👯 I’m looking to collaborate on  with the company where I will grow as a web-developer.  
-- 📫 How to reach me: den_maverick177@mail.ru, Denis-mamlev@rambler.ru, [telegram](https://t.me/Denny_maverick), [vkontakte](https://vk.com/maverick177). 
-- ⚡ Fun fact: once working on project I have deleted the repository by accident. I had been working on it seven day =)) 
+- 🔭  I’m currently working on project 'Archee'. This is a site where I work on interactive. 
+- 🌱  I’m currently learning scss and grids. 
+- 👯  I’m looking to collaborate on  with the company where I will grow as a web-developer.  
+- 📫  How to reach me: den_maverick177@mail.ru, Denis-mamlev@rambler.ru, [telegram](https://t.me/Denny_maverick), [vkontakte](https://vk.com/maverick177). 
+- ⚡  Fun fact: once working on project I have deleted the repository by accident. I had been working on it seven day =)) 
 
 <h2 class="profile__skills-title">
   MY SKILLS IN WEB-DEVELOPING: 
@@ -37,7 +37,7 @@
 ***  
 
 <p>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I know, when you every day going to your dream - you'll come to it. I am sure. Never back down and listen to you heart! My heart belongs to web-developing. 💖
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I know, when you every day going to your dream - you'll come to it. I am sure. Never back down and listen to you heart! My heart belongs to web-developing 💖
 </p>
   
   ### My trophies:
