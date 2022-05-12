@@ -34,8 +34,8 @@
   
 ***  
 
-<p class="profile__text-end">
-  I know, when you every day going to your dream - you'll come to it. I am sure. Never back down and listen to you heart! My heart belongs to web-developing. 💖
+<p>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I know, when you every day going to your dream - you'll come to it. I am sure. Never back down and listen to you heart! My heart belongs to web-developing. 💖
 </p>
   
   ### My trophies:
