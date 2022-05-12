@@ -56,7 +56,7 @@
   
   ### My github statistics:
   
-  ![GitHub stats of Denny Maverick](https://github-readme-stats.vercel.app/api?username=DennyMaverick&show_icons=true&theme=highcontrast)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennyMaverick)](https://github.com/DennyMaverick/github-readme-stats)
  
 <img src="./img/your-dream-is-coming-true.png" alt="dream is coming true"> 
   
