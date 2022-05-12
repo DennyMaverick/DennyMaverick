@@ -20,7 +20,17 @@
   MY SKILLS IN WEB-DEVELOPING: 
 </h2>
   
-  
+(https://github.com/DennyMaverick/DennyMaverick/raw/main/img/bages/1.svg)
+(https://github.com/DennyMaverick/DennyMaverick/raw/main/img/bages/4.svg) 
+(https://github.com/DennyMaverick/DennyMaverick/raw/main/img/bages/2.svg)
+(https://github.com/DennyMaverick/DennyMaverick/raw/main/img/bages/3.svg)
+(https://github.com/DennyMaverick/DennyMaverick/raw/main/img/bages/5.svg)
+(https://github.com/DennyMaverick/DennyMaverick/raw/main/img/bages/6.svg)  
+(https://github.com/DennyMaverDennyMaverickates/raw/mainadme/bages/7.svg) 
+(https://github.com/DennyMaverick/DennyMaverick/raw/main/img/bages/8.svg)
+(https://github.com/DennyMaverick/DennyMaverick/raw/main/img/bages/9.svg)
+(https://github.com/DennyMaverick/DennyMaverick/raw/main/img/bages/10.svg)
+(https://github.com/DennyMaverick/DennyMaverick/raw/main/img/bages/11.svg)   
 
 <p class="profile__text-end">
   I know, when you every day going to your dream - you'll come to it. I am sure. Never back down and listen to you heart! My heart belongs to web-developing. 💖
