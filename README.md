@@ -20,17 +20,17 @@
   MY SKILLS IN WEB-DEVELOPING: 
 </h2>
   
-[<img src="./img/bages/1.svg" alt="skill icon">]
-[<img src="./img/bages/2.svg" alt="skill icon">]
-[<img src="./img/bages/3.svg" alt="skill icon">]
-[<img src="./img/bages/4.svg" alt="skill icon">]
-[<img src="./img/bages/5.svg" alt="skill icon">]
-[<img src="./img/bages/6.svg" alt="skill icon">]
-[<img src="./img/bages/7.svg" alt="skill icon">]
-[<img src="./img/bages/8.svg" alt="skill icon">]
-[<img src="./img/bages/9.svg" alt="skill icon">]
-[<img src="./img/bages/10.svg" alt="skill icon">]
-[<img src="./img/bages/11.svg" alt="skill icon">]
+<img src="./img/bages/1.svg" alt="skill icon">
+<img src="./img/bages/2.svg" alt="skill icon">
+<img src="./img/bages/3.svg" alt="skill icon">
+<img src="./img/bages/4.svg" alt="skill icon">
+<img src="./img/bages/5.svg" alt="skill icon">
+<img src="./img/bages/6.svg" alt="skill icon">
+<img src="./img/bages/7.svg" alt="skill icon">
+<img src="./img/bages/8.svg" alt="skill icon">
+<img src="./img/bages/9.svg" alt="skill icon">
+<img src="./img/bages/10.svg" alt="skill icon">
+<img src="./img/bages/11.svg" alt="skill icon">
   
 (https://github.com/DennyMaverick/DennyMaverick/raw/main/img/bages/4.svg) 
   
