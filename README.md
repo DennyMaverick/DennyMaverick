@@ -20,38 +20,7 @@
   MY SKILLS IN WEB-DEVELOPING: 
 </h2>
   
-<ul class="profile__list-skills">
-  <li class="profile__list-item">
-      HTML5 / CSS3</li>
-      <li class="profile__list-item">
-      Base of JavaScript</li>
-      <li class="profile__list-item">
-      Git & GitHub: base</li>
-      <li class="profile__list-item">
-        Preprocessors: sass, scss, less
-      </li>
-      <li class="profile__list-item">
-        Pixel Perfect
-      </li>
-      <li class="profile__list-item">
-        Svg-sprites
-      </li>
-      <li class="profile__list-item">
-        Gulp
-      </li>
-      <li class="profile__list-item">
-        Webpack
-      </li>
-      <li class="profile__list-item">
-        Bem-naming
-      </li>
-      <li class="profile__list-item">
-        Sliders: slick.js, swiper.js
-      </li>
-      <li class="profile__list-item">
-        Figma / Photoshop
-      </li>    
-</ul>
+  
 
 <p class="profile__text-end">
   I know, when you every day going to your dream - you'll come to it. I am sure. Never back down and listen to you heart! My heart belongs to web-developing. 💖
