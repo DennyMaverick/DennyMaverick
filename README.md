@@ -1,6 +1,6 @@
 
 <div class="main-info profile">
-  <h1 class="profile__title">Hi, I am Denny 👋 !</h1>
+  <h1 class="profile__title">Hi, I am Denny! 👋 </h1>
 
   <p class="profile__text-greed">
     I am so glad to see you in my profile!
