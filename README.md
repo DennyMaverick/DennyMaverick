@@ -11,7 +11,7 @@
   </p>
 
   <h2 class="profile__skills-title">
-    My skills in web:
+    My skills in web-developing:
   </h2>
     <ul class="profile__list-skills">
       <li class="profile__list-item">
