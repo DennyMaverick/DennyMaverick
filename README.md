@@ -1,9 +1,9 @@
 
 <div class="main-info profile">
-  <h1 class="profile__title">Have a nice day!</h1>
+  <h1 class="profile__title">Hi, I am Denny 👋 !</h1>
 
   <p class="profile__text-greed">
-    My name is Denny and I am so glad to see you in my profile!
+    I am so glad to see you in my profile!
   </p>
 
   <p class="profile__text-about">
