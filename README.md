@@ -50,6 +50,7 @@
     <p class="profile__text-end">
       I know, when you every day going to your dream - you'll come to it. I am sure. Never back down and listen to you heart! My heart belongs to web-developing. 💖
     </p>
+  
     <img src="./img/your-dream-is-coming-true.png" alt="dream is coming true"> 
   
   ### My trophies:
