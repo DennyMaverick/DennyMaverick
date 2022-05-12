@@ -19,7 +19,8 @@
 <h2 class="profile__skills-title">
   MY SKILLS IN WEB-DEVELOPING: 
 </h2>
-  
+
+<img src="https://img.shields.io/badge/-gulp-D14836?style=for-the-badge&logo=gulp&logoColor=white">  
 <img src="./img/bages/1.svg" alt="skill icon">
 <img src="./img/bages/2.svg" alt="skill icon">
 <img src="./img/bages/3.svg" alt="skill icon">
