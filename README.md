@@ -54,9 +54,6 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=DennyMaverick&theme=algolia)](https://github.com/DennyMaverick/github-profile-trophy)
   
-  ### My github statistics:
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennyMaverick&layout=compact)](https://github.com/DennyMaverick/github-readme-stats)
  
 <img src="./img/your-dream-is-coming-true.png" alt="dream is coming true"> 
   
