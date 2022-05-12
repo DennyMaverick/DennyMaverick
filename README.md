@@ -31,7 +31,8 @@
 <img src="./img/bages/9.svg" alt="skill icon">
 <img src="./img/bages/10.svg" alt="skill icon">
 <img src="./img/bages/11.svg" alt="skill icon">
-     
+  
+***  
 
 <p class="profile__text-end">
   I know, when you every day going to your dream - you'll come to it. I am sure. Never back down and listen to you heart! My heart belongs to web-developing. 💖
