@@ -9,7 +9,7 @@
   </p>
 
   <p class="profile__text-about">
-    I am a web-developer. I like to do web-sites more attractive. And web for me is not an usual word. This is a part of my every day.
+    I am a web-developer. I like to do web-sites more attractive. And web for me is not an usual word. This is a part of my life.
   </p>
   
 - 🔭  I’m currently working on project 'Archee'. This is a site where I work on interactive. 
