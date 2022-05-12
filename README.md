@@ -52,7 +52,7 @@
   
   ### My trophies:
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=DennyMaverick&theme=onedark)](https://github.com/DennyMaverick/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=DennyMaverick&theme=algolia)](https://github.com/DennyMaverick/github-profile-trophy)
  
 <img src="./img/your-dream-is-coming-true.png" alt="dream is coming true"> 
   
