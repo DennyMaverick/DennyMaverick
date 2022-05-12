@@ -9,6 +9,12 @@
   <p class="profile__text-about">
     I am a web-developer. I like to do web-sites more attractive. And web for me is not an usual word. This is a part of my every day.
   </p>
+  
+- 🔭 I’m currently working on project 'Archee'. This is a site where I work on interactive. 
+- 🌱 I’m currently learning scss and grids. 
+- 👯 I’m looking to collaborate on  with the company where I will grow as a web-developer.  
+- 📫 How to reach me: you can reach me by e-mail: den_maverick177@mail.ru,  Denis-mamlev@rambler.ru. 
+- ⚡ Fun fact: once working on project I have deleted the repository by accident. I had been working on it seven day =)) 
 
   <h2 class="profile__skills-title">
     My skills in web-developing:
