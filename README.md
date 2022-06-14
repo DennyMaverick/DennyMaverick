@@ -4,7 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
   
   <p class="profile__text-greed">
-    Я рад видеть тебя в моем профиле!
+    Рад видеть тебя в моем профиле!
   </p>
 
   <p class="profile__text-about">
