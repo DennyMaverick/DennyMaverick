@@ -38,7 +38,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Я знаю, когда каждый день ты идешь к своей мечте — ты непременно дойдешь до конца. Я уверен. Никогда не отступай и слушай свое сердце! Мое же сердце принадлежит web-разработке 💖
 </p>
   
-  ### My trophies:
+  ### Мои трафеи в сервисе GitHub:
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=DennyMaverick&theme=algolia)](https://github.com/DennyMaverick/github-profile-trophy)
   
@@ -88,7 +88,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I know, when you every day going to your dream — you'll come to it. I am sure. Never back down and listen to you heart! My heart belongs to web-developing 💖
 </p>
   
-  ### My trophies:
+  ### My trophies in GitHub Service:
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=DennyMaverick&theme=algolia)](https://github.com/DennyMaverick/github-profile-trophy)
   
