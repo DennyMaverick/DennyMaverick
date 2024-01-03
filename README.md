@@ -8,12 +8,11 @@
   </p>
 
   <p class="profile__text-about">
-    Я веб-разработчик. Мне нравится оживлять сайты, делать их более привлекательными. И веб-разработка для меня не просто слово. Это частичка моей жизни.
+    Я веб-разработчик, мне интересна Frontend - разработка. Для меня важно, чтобы сайты не только выполняли свои функции, но и были внешне красивыми, вызывали восторг. Считаю, что внешняя составляющая сайта - это 70 % успеха.
   </p>
   
-- 🔭  В данный момент я работаю над проектом Archee. Добавляю возможность менять тему. 
 - 🌱  В данный момент я изучаю более детально JavaScript. 
-- 👯  Я нахожусь в поиске компании, где бы я рос как web-разработчик.  
+- 👯  Я работаю на фрилансе, получаю коммерческий опыт, чтобы в дальнейшем устроиться в IT - компанию. Моя цель - дойти до уровня Middle и стать профессиональным Frontend-разработчиком.
 - 📫  Как можно со мной связаться: den_maverick177@mail.ru, Denis-mamlev@rambler.ru, [telegram](https://t.me/Denny_maverick), [vkontakte](https://vk.com/maverick177).  
 
 <h2 class="profile__skills-title">
@@ -35,7 +34,7 @@
 ***  
 
 <p>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Я знаю, когда каждый день ты идешь к своей мечте — ты непременно дойдешь до конца. Я уверен. Никогда не отступай и слушай свое сердце! Мое же сердце принадлежит web-разработке 💖
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Я знаю, когда каждый день ты идешь к своей мечте — ты непременно дойдешь до конца. Я уверен. Никогда не отступай и слушай свое сердце! 💖
 </p>
   
   ### Мои трафеи в сервисе GitHub:
@@ -58,12 +57,11 @@
   </p>
 
   <p class="profile__text-about">
-    I am a web-developer. I like to do web-sites more attractive. And web-developing for me is not an usual word. This is a part of my life.
+    I'm a web developer, I'm interested in Frontend development. It is important for me that websites not only perform their functions, but are also visually beautiful and arouse delight. I believe that the external component of a website is 70% of success.
   </p>
   
-- 🔭  I’m currently working on project 'Archee'. This is a site where I work on interactive. 
-- 🌱  I’m currently learning scss and grids. 
-- 👯  I’m looking to collaborate with the company where I will grow as a web-developer.  
+- 🌱  I’m currently learning JavaScript. 
+- 👯  I work as a freelancer, gaining commercial experience in order to later get a job in an IT company. My goal is to reach the Middle level and become a professional Frontend developer.
 - 📫  How to reach me: den_maverick177@mail.ru, Denis-mamlev@rambler.ru, [telegram](https://t.me/Denny_maverick), [vkontakte](https://vk.com/maverick177). 
 
 <h2 class="profile__skills-title">
@@ -85,7 +83,7 @@
 ***  
 
 <p>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I know, when you every day going to your dream — you'll come to it. I am sure. Never back down and listen to you heart! My heart belongs to web-developing 💖
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I know, when you every day going to your dream — you'll come to it. I am sure. Never back down and listen to you heart! 💖
 </p>
   
   ### My trophies in GitHub Service:
