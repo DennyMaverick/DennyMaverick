@@ -13,7 +13,7 @@
   
 - 🌱  В данный момент я изучаю более детально JavaScript. 
 - 👯  Я работаю на фрилансе, получаю коммерческий опыт, чтобы в дальнейшем устроиться в IT - компанию. Моя цель - дойти до уровня Middle и стать профессиональным Frontend-разработчиком.
-- 📫  Как можно со мной связаться: den_maverick177@mail.ru, Denis-mamlev@rambler.ru
+  
 <h2 class="profile__skills-title">
   МОИ НАВЫКИ В WEB-РАЗРАБОТКЕ: 
 </h2>
@@ -61,7 +61,6 @@
   
 - 🌱  I’m currently learning JavaScript. 
 - 👯  I work as a freelancer, gaining commercial experience in order to later get a job in an IT company. My goal is to reach the Middle level and become a professional Frontend developer.
-- 📫  How to reach me: den_maverick177@mail.ru, Denis-mamlev@rambler.ru
 
 <h2 class="profile__skills-title">
   MY SKILLS IN WEB-DEVELOPING: 
