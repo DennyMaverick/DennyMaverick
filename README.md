@@ -46,7 +46,9 @@
 
 <hr/>
 
-<p target='_blank'>Мой сайт - портфолио: https://www.weblandingsforyou.ru</p>
+<p>
+  <a href='https://www.weblandingsforyou.ru' target='_blank'>Мой сайт - портфолио</a>
+</p>
   
 </div>
 
@@ -100,6 +102,8 @@
 
 <hr/>
 
-<p target='_blank'>My site - portfolio: https://www.weblandingsforyou.ru</p>
+<p>
+  <a href='https://www.weblandingsforyou.ru' target='_blank'>My site - portfolio</a>
+</p>
   
 </div>
