@@ -44,7 +44,9 @@
  
 <img src="./img/your-dream-is-coming-true.png" alt="dream is coming true"> 
 
-<p>Мой сайт - портфолио: https://www.weblandingsforyou.ru</p>
+<hr/>
+
+<p target='_blank'>Мой сайт - портфолио: https://www.weblandingsforyou.ru</p>
   
 </div>
 
@@ -95,6 +97,9 @@
  
 <img src="./img/your-dream-is-coming-true.png" alt="dream is coming true"> 
 
-<p>My site - portfolio: https://www.weblandingsforyou.ru</p>
+
+<hr/>
+
+<p target='_blank'>My site - portfolio: https://www.weblandingsforyou.ru</p>
   
 </div>
