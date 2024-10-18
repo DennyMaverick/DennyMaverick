@@ -47,7 +47,7 @@
 <hr/>
 
 <p>
-  <a href='https://www.weblandingsforyou.ru' target='_blank'>Мой сайт - портфолио</a>
+  [Мой сайт - портфолио](https://www.weblandingsforyou.ru){:target="_blank" rel="noopener"}
 </p>
   
 </div>
@@ -103,7 +103,7 @@
 <hr/>
 
 <p>
-  <a href='https://www.weblandingsforyou.ru' target='_blank'>My site - portfolio</a>
+  [My site - portfolio](https://www.weblandingsforyou.ru){:target="_blank" rel="noopener"}
 </p>
   
 </div>
