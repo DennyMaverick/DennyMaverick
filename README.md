@@ -47,7 +47,7 @@
 <hr/>
 
 <p>
-  <b><a href='http://www.weblandingsforyou.ru'>Мой сайт - портфолио</a></b>
+  <b><a href='https://dennymaverick.github.io/My-portfolio'>Мой сайт - портфолио</a></b>
 </p>
   
 </div>
@@ -103,7 +103,7 @@
 <hr/>
 
 <p>
-  <b><a href='http://www.weblandingsforyou.ru'>My site - portfolio</a></b>
+  <b><a href='https://dennymaverick.github.io/My-portfolio'>My site - portfolio</a></b>
 </p>
   
 </div>
