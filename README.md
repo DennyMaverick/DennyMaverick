@@ -43,8 +43,8 @@
 ***  
 
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-  > "Если каждый день идти к своей мечте — обязательно дойдёшь до конца.  
-> Никогда не отступай и слушай своё сердце! 💖"
+  > *Если каждый день идти к своей мечте — обязательно дойдёшь до конца.*  
+> **Никогда не отступай и слушай своё сердце! 💖**
   
   ### Мои трафеи в сервисе GitHub:
   
@@ -105,8 +105,8 @@ You can reach me through convenient messengers: [Telegram](https://www.t.me/Denn
 ---
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
-> "If you work toward your dream every day, you will surely reach the finish line.  
-> Never give up and always follow your heart! 💖"
+> *If you move toward your dream every day, you will surely reach the end.*  
+> **Never give up and listen to your heart! 💖**
 
 ---
 
