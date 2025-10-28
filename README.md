@@ -1,18 +1,27 @@
-<div class="main-info profile-ru">
-  <h1 class="profile__title">👋 Привет, я Денис!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> </h1>
+  # 👋 Привет, я Денис!
   
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-  
-  <p class="profile__text-greed">
-    Рад видеть тебя в моем профиле!
-  </p>
 
-  <p class="profile__text-about">
-    Я веб-разработчик, мне интересна Frontend - разработка. Для меня важно, чтобы сайты не только выполняли свои функции, но и были внешне красивыми, вызывали восторг. Считаю, что внешняя составляющая сайта - это 70 % успеха.
-  </p>
-  
-- 🌱  В данный момент я изучаю более детально JavaScript. 
-- 👯  Я работаю на фрилансе, получаю коммерческий опыт, чтобы в дальнейшем устроиться в IT - компанию. Моя цель - дойти до уровня Middle и стать профессиональным Frontend-разработчиком.
+
+Я — **Frontend-разработчик**, увлечён созданием красивых и функциональных веб-сайтов.  
+Для меня важно, чтобы сайты **не только работали**, но и **вызывали восторг у пользователей**.  
+Считаю, что **внешний вид и UX — 70% успеха проекта**.
+
+---
+
+## 🌱 В процессе обучения
+- Углубляюсь в **JavaScript** и современные фронтенд-технологии  
+- Изучаю **React**, **CSS Grid**, **Flexbox**, **BEM**  
+
+---
+
+## 👯 Опыт
+- Работаю на **фрилансе**, получая коммерческий опыт  
+- Готовлюсь к **карьере в IT-компании**  
+- Цель: стать **Middle Frontend-разработчиком** и создавать профессиональные веб-приложения  
+
+---
+## 💬 Связь со мной
 - Со мной можно связаться просто написав мне в любой из удобных месседжеров: [Телеграм](https://www.t.me/Denny_maverick), [Вконтакте](https://www.vk.com/maverick177)
   
 <h2 class="profile__skills-title">
@@ -33,9 +42,9 @@
   
 ***  
 
-<p>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Я знаю, когда каждый день ты идешь к своей мечте — ты непременно дойдешь до конца. Я уверен. Никогда не отступай и слушай свое сердце! 💖
-</p>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+  > "Если каждый день идти к своей мечте — обязательно дойдёшь до конца.  
+> Никогда не отступай и слушай своё сердце! 💖"
   
   ### Мои трафеи в сервисе GitHub:
   
@@ -46,33 +55,40 @@
 
 <hr/>
 
-<p>
-  <b><a href='https://dennymaverick.github.io/My-portfolio'>Мой сайт - портфолио</a></b>
-</p>
-  
-</div>
+## 💼 Мой сайт - портфолио
 
-
-<div class="main-info profile-en">
-  <h1 class="profile__title">👋 Hi, I am Denny!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> </h1>
+**🌟 [Открой моё портфолио и посмотри мои проекты 💻](https://dennymaverick.github.io/My-portfolio)**
   
+
+# 👋 Hi, I'm Denis!
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-  
-  <p class="profile__text-greed">
-    I am so glad to see you in my profile!
-  </p>
 
-  <p class="profile__text-about">
-    I'm a web developer, I'm interested in Frontend development. It is important for me that websites not only perform their functions, but are also visually beautiful and arouse delight. I believe that the external component of a website is 70% of success.
-  </p>
-  
-- 🌱  I’m currently learning JavaScript. 
-- 👯  I work as a freelancer, gaining commercial experience in order to later get a job in an IT company. My goal is to reach the Middle level and become a professional Frontend developer.
-- You can contact me just sending the message by any comfort way for you: [Telegram](https://www.t.me/Denny_maverick), [Vkontakte](https://www.vk.com/maverick177)
+I'm a **Frontend Developer**, passionate about creating beautiful and functional websites.  
+For me, it's important that websites **not only work**, but also **delight users**.  
+I believe that **design and UX contribute 70% to a project's success**.
 
-<h2 class="profile__skills-title">
-  MY SKILLS IN WEB-DEVELOPING: 
-</h2>
+---
+
+## 🌱 Learning
+- Deepening my knowledge in **JavaScript** and modern frontend technologies  
+- Exploring **React**, **CSS Grid**, **Flexbox**, **BEM**  
+
+---
+
+## 👯 Experience
+- Working as a **freelancer**, gaining commercial experience  
+- Preparing for a **career in an IT company**  
+- Goal: to become a **Middle Frontend Developer** and create professional web applications  
+
+---
+
+## 💬 Contact Me
+You can reach me through convenient messengers: [Telegram](https://www.t.me/Denny_maverick), [VK](https://www.vk.com/maverick177)
+
+---
+
+### 🛠️ My Web Development Skills
 
 <img src="./img/bages/1.svg" alt="skill icon">
 <img src="./img/bages/2.svg" alt="skill icon">
@@ -85,25 +101,29 @@
 <img src="./img/bages/9.svg" alt="skill icon">
 <img src="./img/bages/10.svg" alt="skill icon">
 <img src="./img/bages/11.svg" alt="skill icon">
-  
-***  
 
-<p>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I know, when you every day going to your dream — you'll come to it. I am sure. Never back down and listen to you heart! 💖
-</p>
-  
-  ### My trophies in GitHub Service:
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=DennyMaverick&theme=algolia)](https://github.com/DennyMaverick/github-profile-trophy)
-  
- 
+---
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
+> "If you work toward your dream every day, you will surely reach the finish line.  
+> Never give up and always follow your heart! 💖"
+
+---
+
+### 🏆 My GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DennyMaverick&theme=algolia)](https://github.com/DennyMaverick/github-profile-trophy)
+
+---
+
 <img src="./img/your-dream-is-coming-true.png" alt="dream is coming true"> 
 
+---
 
-<hr/>
+## 💼 My Portfolio Website
 
-<p>
-  <b><a href='https://dennymaverick.github.io/My-portfolio'>My site - portfolio</a></b>
-</p>
+**🌟 [Check out my portfolio and see my projects 💻](https://dennymaverick.github.io/My-portfolio)**
+
+
   
-</div>
+  
