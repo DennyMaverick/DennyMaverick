@@ -54,8 +54,6 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=DennyMaverick&theme=algolia)](https://github.com/DennyMaverick/github-profile-trophy)
   
- 
-<img src="./img/your-dream-is-coming-true.png" alt="dream is coming true"> 
 
 <hr/>
 
@@ -123,9 +121,6 @@ You can reach me through convenient messengers: [Telegram](https://www.t.me/Denn
 
 ---
 
-<img src="./img/your-dream-is-coming-true.png" alt="dream is coming true"> 
-
----
 
 ## 💼 My Portfolio Website
 
