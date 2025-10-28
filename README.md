@@ -32,7 +32,7 @@
   МОИ НАВЫКИ В WEB-РАЗРАБОТКЕ: 
 </h2>
 
-<img src="img/bages/1.svg" alt="skill icon">
+<img src="/img/bages/1.svg" alt="skill icon">
 <img src="./img/bages/2.svg" alt="skill icon">
 <img src="./img/bages/3.svg" alt="skill icon">
 <img src="./img/bages/4.svg" alt="skill icon">
