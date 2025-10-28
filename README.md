@@ -1,3 +1,7 @@
+## 🇷🇺
+
+---
+  
   # 👋 Привет, я Денис!
   
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -61,6 +65,10 @@
 
 **🌟 [Открой моё портфолио и посмотри мои проекты 💻](https://dennymaverick.github.io/My-portfolio)**
   
+## 🇬🇧 
+
+---
+
 
 # 👋 Hi, I'm Denis!
 
