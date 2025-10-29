@@ -22,23 +22,35 @@
 ## 💬 Связь со мной
 - Со мной можно связаться просто написав мне в любой из удобных месседжеров: [Телеграм](https://www.t.me/Denny_maverick), [Вконтакте](https://www.vk.com/maverick177)
   
-<h2 class="profile__skills-title">
-  МОИ НАВЫКИ В WEB-РАЗРАБОТКЕ: 
-</h2>
 
-<img src="/img/bages/1.svg" alt="skill icon">
-<img src="./img/bages/2.svg" alt="skill icon">
-<img src="./img/bages/3.svg" alt="skill icon">
-<img src="./img/bages/4.svg" alt="skill icon">
-<img src="./img/bages/5.svg" alt="skill icon">
-<img src="./img/bages/6.svg" alt="skill icon">
-<img src="./img/bages/7.svg" alt="skill icon">
-<img src="./img/bages/8.svg" alt="skill icon">
-<img src="./img/bages/9.svg" alt="skill icon">
-<img src="./img/bages/10.svg" alt="skill icon">
-<img src="./img/bages/11.svg" alt="skill icon">
+ ### :hammer_and_wrench: МОИ НАВЫКИ И ИНСТРУМЕНТЫ: 
+
+
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/figma/figma-original.svg" title='Figma' alt="skill icon" width="40" height="40"/>&nbsp;
   
-***  
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/photoshop/photoshop-original.svg" title='Photoshop' alt="skill icon" width="40" height="40"/>&nbsp;
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/webpack/webpack-original.svg" title='Webpack' alt="skill icon" width="40" height="40"/>&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/gulp/gulp-plain.svg" title='Gulp' alt="skill icon" width="40" height="40"/>&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/html5/html5-original.svg" title='HTML5' alt="skill icon" width="40" height="40"/>&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/css3/css3-original.svg" title='CSS3' alt="skill icon" width="40" height="40"/>&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/sass/sass-original.svg" title='SASS' alt="skill icon" width="40" height="40"/>&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/less/less-plain-wordmark.svg" title='Less' alt="skill icon" width="40" height="40"/>&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/github/github-original.svg" title='Github' alt="skill icon" width="40" height="40"/>&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg" title='JavaScript' alt="skill icon" width="40" height="40"/>&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original.svg" title='React' alt="skill icon" width="40" height="40"/>&nbsp;
+</div>
+  
+--- 
 
  <p>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
@@ -86,19 +98,31 @@ You can reach me through convenient messengers: [Telegram](https://www.t.me/Denn
 
 ---
 
-### 🛠️ My Web Development Skills
+### :hammer_and_wrench: Languages and Tools :
 
-<img src="./img/bages/1.svg" alt="skill icon">
-<img src="./img/bages/2.svg" alt="skill icon">
-<img src="./img/bages/3.svg" alt="skill icon">
-<img src="./img/bages/4.svg" alt="skill icon">
-<img src="./img/bages/5.svg" alt="skill icon">
-<img src="./img/bages/6.svg" alt="skill icon">
-<img src="./img/bages/7.svg" alt="skill icon">
-<img src="./img/bages/8.svg" alt="skill icon">
-<img src="./img/bages/9.svg" alt="skill icon">
-<img src="./img/bages/10.svg" alt="skill icon">
-<img src="./img/bages/11.svg" alt="skill icon">
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/figma/figma-original.svg" title='Figma' alt="skill icon" width="40" height="40"/>&nbsp;
+  
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/photoshop/photoshop-original.svg" title='Photoshop' alt="skill icon" width="40" height="40"/>&nbsp;
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/webpack/webpack-original.svg" title='Webpack' alt="skill icon" width="40" height="40"/>&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/gulp/gulp-plain.svg" title='Gulp' alt="skill icon" width="40" height="40"/>&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/html5/html5-original.svg" title='HTML5' alt="skill icon" width="40" height="40"/>&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/css3/css3-original.svg" title='CSS3' alt="skill icon" width="40" height="40"/>&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/sass/sass-original.svg" title='SASS' alt="skill icon" width="40" height="40"/>&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/less/less-plain-wordmark.svg" title='Less' alt="skill icon" width="40" height="40"/>&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/github/github-original.svg" title='Github' alt="skill icon" width="40" height="40"/>&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg" title='JavaScript' alt="skill icon" width="40" height="40"/>&nbsp;
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original.svg" title='React' alt="skill icon" width="40" height="40"/>&nbsp;
+</div>
 
 ---
 <p>
