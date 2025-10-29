@@ -27,27 +27,17 @@
 
 
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/figma/figma-original.svg" title='Figma' alt="skill icon" width="40" height="40"/>&nbsp;
-  
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/figma/figma-original.svg" title='Figma' alt="skill icon" width="40" height="40"/>&nbsp;  
 <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/photoshop/photoshop-original.svg" title='Photoshop' alt="skill icon" width="40" height="40"/>&nbsp;
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/webpack/webpack-original.svg" title='Webpack' alt="skill icon" width="40" height="40"/>&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/gulp/gulp-plain.svg" title='Gulp' alt="skill icon" width="40" height="40"/>&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/html5/html5-original.svg" title='HTML5' alt="skill icon" width="40" height="40"/>&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/css3/css3-original.svg" title='CSS3' alt="skill icon" width="40" height="40"/>&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/sass/sass-original.svg" title='SASS' alt="skill icon" width="40" height="40"/>&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/less/less-plain-wordmark.svg" title='Less' alt="skill icon" width="40" height="40"/>&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/github/github-original.svg" title='Github' alt="skill icon" width="40" height="40"/>&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg" title='JavaScript' alt="skill icon" width="40" height="40"/>&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original.svg" title='React' alt="skill icon" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/webpack/webpack-original.svg" title='Webpack' alt="skill icon" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/gulp/gulp-plain.svg" title='Gulp' alt="skill icon" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/html5/html5-original.svg" title='HTML5' alt="skill icon" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/css3/css3-original.svg" title='CSS3' alt="skill icon" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/sass/sass-original.svg" title='SASS' alt="skill icon" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/less/less-plain-wordmark.svg" title='Less' alt="skill icon" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/github/github-original.svg" title='Github' alt="skill icon" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg" title='JavaScript' alt="skill icon" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original.svg" title='React' alt="skill icon" width="40" height="40"/>&nbsp;
 </div>
   
 --- 
@@ -101,27 +91,17 @@ You can reach me through convenient messengers: [Telegram](https://www.t.me/Denn
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/figma/figma-original.svg" title='Figma' alt="skill icon" width="40" height="40"/>&nbsp;
-  
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/figma/figma-original.svg" title='Figma' alt="skill icon" width="40" height="40"/>&nbsp;  
 <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/photoshop/photoshop-original.svg" title='Photoshop' alt="skill icon" width="40" height="40"/>&nbsp;
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/webpack/webpack-original.svg" title='Webpack' alt="skill icon" width="40" height="40"/>&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/gulp/gulp-plain.svg" title='Gulp' alt="skill icon" width="40" height="40"/>&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/html5/html5-original.svg" title='HTML5' alt="skill icon" width="40" height="40"/>&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/css3/css3-original.svg" title='CSS3' alt="skill icon" width="40" height="40"/>&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/sass/sass-original.svg" title='SASS' alt="skill icon" width="40" height="40"/>&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/less/less-plain-wordmark.svg" title='Less' alt="skill icon" width="40" height="40"/>&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/github/github-original.svg" title='Github' alt="skill icon" width="40" height="40"/>&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg" title='JavaScript' alt="skill icon" width="40" height="40"/>&nbsp;
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original.svg" title='React' alt="skill icon" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/webpack/webpack-original.svg" title='Webpack' alt="skill icon" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/gulp/gulp-plain.svg" title='Gulp' alt="skill icon" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/html5/html5-original.svg" title='HTML5' alt="skill icon" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/css3/css3-original.svg" title='CSS3' alt="skill icon" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/sass/sass-original.svg" title='SASS' alt="skill icon" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/less/less-plain-wordmark.svg" title='Less' alt="skill icon" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/github/github-original.svg" title='Github' alt="skill icon" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg" title='JavaScript' alt="skill icon" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original.svg" title='React' alt="skill icon" width="40" height="40"/>&nbsp;
 </div>
 
 ---
