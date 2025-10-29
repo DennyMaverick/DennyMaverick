@@ -4,11 +4,13 @@
   
   # 👋 Привет, я Денис!
   
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
 
 
 Я — **Frontend-разработчик**, увлечён созданием красивых и функциональных веб-сайтов.  
@@ -72,11 +74,13 @@
 
 # 👋 Hi, I'm Denis!
 
-<img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='center'  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
 
 I'm a **Frontend Developer**, passionate about creating beautiful and functional websites.  
 For me, it's important that websites **not only work**, but also **delight users**.  
