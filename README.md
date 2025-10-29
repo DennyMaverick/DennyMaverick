@@ -57,11 +57,6 @@
 > *Если каждый день идти к своей мечте — обязательно дойдёшь до конца.*  
 > **Никогда не отступай и слушай своё сердце! 💖**
 
-  
-  ### Мои трафеи в сервисе GitHub:
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=DennyMaverick&theme=algolia)](https://github.com/DennyMaverick/github-profile-trophy)
-  
 
 <hr/>
 
@@ -127,12 +122,6 @@ You can reach me through convenient messengers: [Telegram](https://www.t.me/Denn
 > *If you move toward your dream every day, you will surely reach the end.*  
 > **Never give up and listen to your heart! 💖**
 
-
----
-
-### 🏆 My GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DennyMaverick&theme=algolia)](https://github.com/DennyMaverick/github-profile-trophy)
 
 ---
 
