@@ -19,7 +19,7 @@
 
 ---
 
-## 👯 Опыт
+## 🚀 Опыт
 - Работаю на **фрилансе**, получая коммерческий опыт  
 - Готовлюсь к **карьере в IT-компании**  
 - Цель: стать **Middle Frontend-разработчиком** и создавать профессиональные веб-приложения и сайты  
@@ -86,7 +86,7 @@ I believe that **design and UX contribute 70% to a project's success**.
 
 ---
 
-## 👯 Experience
+## 🚀 Experience
 - Working as a **freelancer**, gaining commercial experience  
 - Preparing for a **career in an IT company**  
 - Goal: to become a **Middle Frontend Developer** and create professional web applications and sites  
