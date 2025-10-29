@@ -7,6 +7,14 @@
 <div align="center">
  <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </div>
+<div id="bages">
+  <a href="https://vk.com/maverick177">
+    <img src="./img/bages/vk-bage.png" alt="VK Badge"/>
+  </a>
+  <a href="https://t.me/Denny_maverick">
+    <img src="./img/bages/telegram-bage-ru-version.png" alt="Youtube Badge"/>
+  </a>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%"/>
@@ -72,6 +80,14 @@
 # 👋 Hi, I'm Denis!
 <div align="center">
  <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</div>
+<div id="bages">
+  <a href="https://vk.com/maverick177">
+    <img src="./img/bages/vk-bage-en-version.png" alt="VK Badge"/>
+  </a>
+  <a href="https://t.me/Denny_maverick">
+    <img src="./img/bages/telegram-bage-en-version.png" alt="Youtube Badge"/>
+  </a>
 </div>
 
 <div align="center">
