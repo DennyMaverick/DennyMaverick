@@ -13,12 +13,6 @@
 
 ---
 
-## 🌱 В процессе обучения
-- Углубляюсь в **JavaScript** и современные фронтенд-технологии  
-- Изучаю **React**, **CSS Grid**, **Flexbox**, **BEM**  
-
----
-
 ## 🚀 Опыт
 - Работаю на **фрилансе**, получая коммерческий опыт  
 - Готовлюсь к **карьере в IT-компании**  
@@ -77,12 +71,6 @@
 I'm a **Frontend Developer**, passionate about creating beautiful and functional websites.  
 For me, it's important that websites **not only work**, but also **delight users**.  
 I believe that **design and UX contribute 70% to a project's success**.
-
----
-
-## 🌱 Learning
-- Deepening my knowledge in **JavaScript** and modern frontend technologies  
-- Exploring **React**, **CSS Grid**, **Flexbox**, **BEM**  
 
 ---
 
