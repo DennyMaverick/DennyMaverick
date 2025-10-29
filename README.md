@@ -8,7 +8,7 @@
  <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </div>
 
-<table id="bages" align="center" border="0">
+<table id="bages" align="center" border="none">
   <tr>
     <td> 
       <a href="https://vk.com/maverick177">
@@ -89,7 +89,7 @@
  <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </div>
 
-<table id="bages" align="center" border="0">
+<table id="bages" align="center" border="none">
   <tr>
     <td> 
       <a href="https://vk.com/maverick177">
