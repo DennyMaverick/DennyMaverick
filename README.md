@@ -14,7 +14,7 @@
     <img src="./img/bages/vk-bage.png" alt="VK Badge" width="200" height="80"/>
   </a>
   <a href="https://t.me/Denny_maverick">
-    <img src="./img/bages/telegram-bage.png" alt="Telegram Badge" width="200" height="80"/>
+    <img src="./img/bages/telegram-bage-ru-version.png" alt="Telegram Badge" width="200" height="80"/>
   </a>
 </p>
 
