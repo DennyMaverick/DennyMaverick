@@ -9,10 +9,10 @@
 </div>
 
 
-<p align="center">
+<p align="center" style="line-height:0">
   <a href="https://vk.com/maverick177">
-    <img src="./img/bages/vk-bage.png" alt="VK Badge" width="200" height="80" style="vertical-align:middle;"/>
-  </a>&nbsp;
+    <img src="./img/bages/vk-bage.png" alt="VK Badge" width="200" height="80" />
+  </a>
   <a href="https://t.me/Denny_maverick">
     <img src="./img/bages/telegram-bage-ru-version.png" alt="Telegram Badge" width="200" height="80" style="vertical-align:middle;"/>
   </a>
@@ -85,12 +85,12 @@
 </div>
 
 
-<p align="center">
+<p align="center" style="line-height:0">
   <a href="https://vk.com/maverick177">
-    <img src="./img/bages/vk-bage-en-version.png" alt="VK Badge" width="200" height="80" style="vertical-align:middle;"/>
-  </a>&nbsp;
+    <img src="./img/bages/vk-bage-en-version.png" alt="VK Badge" width="200" height="80"/>
+  </a>
   <a href="https://t.me/Denny_maverick">
-    <img src="./img/bages/telegram-bage-en-version.png" alt="Telegram Badge" width="200" height="80" style="vertical-align:middle;"/>
+    <img src="./img/bages/telegram-bage-en-version.png" alt="Telegram Badge" width="200" height="80"/>
   </a>
 </p>
 
