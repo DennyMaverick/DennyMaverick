@@ -8,20 +8,15 @@
  <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </div>
 
-<table id="bages" align="center" border="none">
-  <tr>
-    <td> 
-      <a href="https://vk.com/maverick177">
-       <img src="./img/bages/vk-bage.png" alt="VK Badge" width="200" height="80">
-      </a>
-    </td>
-    <td>
-      <a href="https://t.me/Denny_maverick">
-       <img src="./img/bages/telegram-bage-ru-version.png" alt="Youtube Badge"  width="200" height="80" style="vertical-align:top;">
-      </a>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <a href="https://vk.com/maverick177">
+    <img src="./img/bages/vk-bage.png" alt="VK Badge" width="200" height="80"/>
+  </a>
+  <a href="https://t.me/Denny_maverick">
+    <img src="./img/bages/telegram-bage.png" alt="VK Badge" width="200" height="80"/>
+  </a>
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%"/>
@@ -89,20 +84,15 @@
  <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </div>
 
-<table id="bages" align="center" border="none">
-  <tr>
-    <td> 
-      <a href="https://vk.com/maverick177">
-       <img src="./img/bages/vk-bage-en-version.png" alt="VK Badge" width="200" height="80">
-      </a>
-    </td>
-    <td>
-      <a href="https://t.me/Denny_maverick">
-       <img src="./img/bages/telegram-bage-en-version.png" alt="Youtube Badge"  width="200" height="80" style="vertical-align:top;">
-      </a>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <a href="https://vk.com/maverick177">
+    <img src="./img/bages/vk-bage-en-version.png" alt="VK Badge" width="200" height="80"/>
+  </a>
+  <a href="https://t.me/Denny_maverick">
+    <img src="./img/bages/telegram-bage-en-version.png" alt="Telegram Badge" width="200" height="80"/>
+  </a>
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%"/>
