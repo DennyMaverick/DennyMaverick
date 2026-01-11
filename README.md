@@ -101,7 +101,7 @@
 
 ---
 
-I'm a **Frontend Developer**, passionate about creating beautiful and functional websites.  
+I'm a **Frontend Developer**, passionate about creating beautiful and functional websites and web applications.  
 For me, it's important that websites **not only work**, but also **delight users**.  
 I believe that **design and UX contribute 70% to a project's success**.
 
