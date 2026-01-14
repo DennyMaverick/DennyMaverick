@@ -26,10 +26,9 @@
 ---
 
 
-Я — **Frontend-разработчик**, увлечён созданием красивых и функциональных веб-сайтов и приложений.  
-Для меня важно, чтобы сайты **не только работали**, но и **вызывали восторг у пользователей**.  
-Считаю, что **внешний вид и UX — 70% успеха проекта**.
-
+Я — **Frontend-разработчик**, создающий чистые, функциональные и визуально привлекательные веб-интерфейсы.
+Особое внимание уделяю UI/UX, потому что продукт должен не только стабильно работать, но и быть приятным в использовании.
+Считаю, что дизайн и пользовательский опыт определяют большую часть успеха продукта.
 ---
 
 ## 🚀 Опыт
@@ -101,9 +100,9 @@
 
 ---
 
-I'm a **Frontend Developer**, passionate about creating beautiful and functional websites and web applications.  
-For me, it's important that websites **not only work**, but also **delight users**.  
-I believe that **design and UX contribute 70% to a project's success**.
+I am a **Frontend Developer** focused on building clean, functional, and visually appealing web interfaces.
+I care deeply about UI/UX, because a product should not only work reliably, but also feel great to use.
+I believe that design and user experience define most of a product’s success.
 
 ---
 
